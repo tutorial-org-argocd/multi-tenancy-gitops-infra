@@ -3,7 +3,7 @@ ocp-console-notification:
   name: "banner-env"
 
   ## The background color that should be used for the banner
-  backgroundColor: RED
+  backgroundColor: BLUE
   ## The color of the text that will appear in the banner
   color: "#fff"
   ## The location of the banner. Options: BannerTop, BannerBottom, BannerTopBottom
